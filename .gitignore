@@ -1,0 +1,12 @@
+# CLion
+.idea/
+cmake-build-*/
+
+# 実行ファイル
+*.exe
+*.out
+trex
+
+# その他
+*.o
+*.log
